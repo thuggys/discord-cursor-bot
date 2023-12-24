@@ -13,7 +13,7 @@
     "faq",
     "games"
   ],
-  "author": "",
+  "author": "thugbunnss",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.3",
