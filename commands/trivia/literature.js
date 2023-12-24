@@ -1,0 +1,1 @@
+module.exports = [{'question': 'Who wrote "To Kill a Mockingbird"?', 'answer': 'Harper Lee'}];

@@ -1,0 +1,1 @@
+module.exports = [{'question': 'What is the square root of 144?', 'answer': '12'}];
