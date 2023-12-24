@@ -1,0 +1,23 @@
+{
+  "name": "cursor-ai-discord-bot",
+  "version": "1.0.0",
+  "description": "A discord bot for an IDE called Cursor AI that can answer common questions and have mini games",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "cursor-ai",
+    "faq",
+    "games"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security"
+  }
+}
+
