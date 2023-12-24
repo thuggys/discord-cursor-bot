@@ -4,8 +4,6 @@ module.exports = {
     name: 'game1',
     description: 'This is a mini game command for the bot',
     execute(message, args) {
-        // Your game logic goes here
-        // For example, a simple number guessing game
         const numberToGuess = Math.floor(Math.random() * 10) + 1;
         const filter = m => m.author.id === message.author.id;
 
